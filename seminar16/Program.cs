@@ -8,6 +8,10 @@ namespace seminar16
 {
     class Program
     {
+       public void Sort (IEnumerable<Student> array )
+        {
+            var t = 5;
+        }
         static void Main(string[] args)
         {
         }
